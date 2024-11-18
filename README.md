@@ -12,10 +12,7 @@
 Este projeto é um Trabalho Integrador desenvolvido para consolidar os conhecimentos adquiridos ao longo do curso. O objetivo é criar uma aplicação completa utilizando tecnologias modernas tanto no frontend quanto no backend.
 
 ## Tecnologias a serem utilizadas
-### Frontend
 - **TypeScript**
-  
-### Backend
 - **Java 21**
 - **Spring Boot 3**
 - **PostgreSQL**
